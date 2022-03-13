@@ -1,4 +1,4 @@
-# Numéro Um GitHub
+# Número Um GitHub
 Desafio de projeto sobre GitHub pelo Dio.me
 
 ## Links Úteis
